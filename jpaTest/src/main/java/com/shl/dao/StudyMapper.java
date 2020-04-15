@@ -7,4 +7,5 @@ import com.shl.entity.Study;
 public interface StudyMapper {
 	List<Study> findAll();
 	int a();
+	int b();
 }
